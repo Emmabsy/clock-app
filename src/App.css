@@ -28,6 +28,13 @@
   color: #61dafb;
 }
 
+.tit{
+  text-align: center;
+font-family: "Iowan Old Style";
+  color: darkred;
+}
+
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
